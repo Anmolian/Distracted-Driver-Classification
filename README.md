@@ -1,4 +1,4 @@
-# Distracted_Driver_Classification - Kaggle_Challenge
+# Distracted_Driver_Classification
 
 ## Technologies used: Tensorflow, Scikit-Learn
 
